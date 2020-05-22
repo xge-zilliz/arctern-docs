@@ -390,10 +390,10 @@ $ pip install requests
 ...     "width": 512,
 ...     "height": 448,
 ...     "bounding_box": [
-...         -73.9616334766551,
-...         40.704739019597156,
-...         -73.94232850242967,
-...         40.728133570887906
+...         -73.998427,
+...         40.730309,
+...         -73.954348,
+...         40.780816,
 ...     ],
 ...     "opacity": 1,
 ...     "coordinate_system": "EPSG:4326",
@@ -417,7 +417,7 @@ $ pip install requests
 
 渔网图的绘制结果如下：
 
-![渔网图](../../../img/restful-result/fishnetmap.png)
+![渔网图](../../../img/restful-result/fishnetmap_docker.png)
 
 ## FAQ
 ### 镜像拉取和数据文件下载速度太慢怎么办?
